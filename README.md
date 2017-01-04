@@ -1,5 +1,3 @@
 # YouTube Clone
 
-## React, Webpack, Babel, YouTube API
-
-## ES6 syntax
+## ES6, React, Webpack, Babel, YouTube API
